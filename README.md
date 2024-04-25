@@ -24,6 +24,10 @@ Or latest released version:
 $ pip install --user https://github.com/konflux-ci/rpm-lockfile-prototype/archive/refs/tags/v0.1.0-alpha.2.tar.gz
 ```
 
+There is a COPR repository for Fedora too: https://copr.fedorainfracloud.org/coprs/lsedlar/rpm-lockfile-prototype/
+
+[![Copr build status](https://copr.fedorainfracloud.org/coprs/lsedlar/rpm-lockfile-prototype/package/rpm-lockfile-prototype/status_image/last_build.png)](https://copr.fedorainfracloud.org/coprs/lsedlar/rpm-lockfile-prototype/package/rpm-lockfile-prototype/)
+
 
 # How to run this from git
 
